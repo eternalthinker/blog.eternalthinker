@@ -5,12 +5,12 @@ relative_permalinks: true
 # Setup
 title:            Eternal Thinker
 tagline:          Online workspace of Rahul Anand
-url:              http://eternalthinker.co/
+url:              http://tblog.eternalthinker.co/
 paginate:         1
 baseurl:          /
 author:
   name:           Rahul Anand
-  url:            http://tblog.eternalthinker.co/
+  url:            http://eternalthinker.co/
   email:          et@eternalthinker.co
 
 # Custom vars
