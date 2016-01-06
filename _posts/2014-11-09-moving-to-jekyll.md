@@ -9,7 +9,7 @@ Even better to be geeky in the process. Go Jekyll.
 
 -----
 
-- [x] Get started with Poole theme. Start simple.
-- [ ] Essential components - comments etc
-- [ ] Port selected Blogger posts
-- [ ] Theme tweaking commence!
+- Get started with Poole theme. Start simple. ✔
+- Essential components - comments etc
+- Port selected Blogger posts
+- Theme tweaking commence!
